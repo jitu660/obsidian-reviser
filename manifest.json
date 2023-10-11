@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-reviser",
+	"name": "Obsidian reviser",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a plugin to add card revision on based of a specific section of a document",
+	"author": "Jitendra Patel",
+	"authorUrl": "https://github.com/jitu660",
+	"isDesktopOnly": true
+}
